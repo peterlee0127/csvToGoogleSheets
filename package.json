@@ -1,0 +1,13 @@
+{
+  "name": "emaskToSheet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "PeterLee <peterlee0127@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "39",
+    "open": "^7.0.3",
+    "request": "^2.88.2",
+    "server-destroy": "^1.0.1"
+  }
+}

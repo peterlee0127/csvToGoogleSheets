@@ -1,0 +1,6 @@
+credentials.json
+token.json
+*.lock
+*.csv
+config.json
+*.asc
